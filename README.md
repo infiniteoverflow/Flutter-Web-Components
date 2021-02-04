@@ -7,6 +7,10 @@ A Curated list of Components that you can reuse in your Flutter Website.
 
 ![](side_bar/assets/sidebar.gif)
 
-**2. Auth Screen**
+**2. Music UI**
+
+![](music_ui/assets/music.png)
+
+**3. Auth Screen**
 
 ![](authentication_screen/assets/auth.gif)
