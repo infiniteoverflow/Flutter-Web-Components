@@ -1,4 +1,5 @@
-# Flutter-Web-Components
+# Flutter-Web-Ingredients
+
 A Curated list of Components that you can reuse in your Flutter Website. Feel Free to contribute your work !!
 
 **Note : I have removed the `android/` and `ios/` folder from each folder so that we can reduce the size of the directories.**
